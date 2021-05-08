@@ -1,5 +1,5 @@
 # vpn-connector
-A python3 script to connect/disconnect vpn using two factor authentication.
+A python3 script to connect/disconnect vpn using TOTP two factor authentication. It uses base32 secret for generating TOTP.
 
 Requirement:
 
